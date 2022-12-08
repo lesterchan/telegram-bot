@@ -33,7 +33,7 @@
     "eslint": "^7.26.0",
     "eslint-config-techinasia-base": "^0.8.0",
     "eslint-plugin-import": "^2.22.1",
-    "mocha": "^8.4.0"
+    "mocha": "^10.1.0"
   },
   "dependencies": {
     "moment": "^2.29.2",
